@@ -1,9 +1,7 @@
 //
 //  AppDelegate.swift
 //  AssessmentTask
-//
-//  Created by AGL IT on 25/04/24.
-//
+
 
 import UIKit
 
